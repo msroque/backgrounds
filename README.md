@@ -9,3 +9,35 @@ This website displays interactive backgrounds that were made exclusively with GL
    <img src="https://github.com/msroque/backgrounds/blob/main/modules/readme/perlin.png" width =80% height=80%
         title="Perlin Noise" />
 </p>
+
+#### Ripple
+<p align="center" >
+   <img src="https://github.com/msroque/backgrounds/blob/main/modules/readme/ripple.jpg" width =80% height=80%
+        title="Ripple" />
+</p>
+
+#### Polar
+<p align="center" >
+   <img src="https://github.com/msroque/backgrounds/blob/main/modules/readme/polar.jpg" width =80% height=80%
+        title="Ripple" />
+</p>
+
+
+### 3D Interactive Backgrounds:
+#### Ocean
+* Camera movement enabled. RMB + drag to move around.
+<p align="center" >
+   <img src="https://github.com/msroque/backgrounds/blob/main/modules/readme/sea.jpg" width =80% height=80%
+        title="Ocean" />
+</p>
+
+#### Galaxy
+* Camera movement enabled. RMB + drag to move around.
+* Star colors are customizable. Open up UI on the upper right to change inner and outer colors.
+<p align="center" >
+   <img src="https://github.com/msroque/backgrounds/blob/main/modules/readme/galaxy.jpg" width =80% height=80%
+        title="Galaxy" />
+</p>
+
+## Credits
+Project created by Michelle Roque as part of the [3JS Journey](https://threejs-journey.com/) course.
