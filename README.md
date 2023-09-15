@@ -1,5 +1,5 @@
 # BACKGROUNDS
-This website displays interactive backgrounds that were made exclusively with GLSL shaders and implemented with Three.js
+This website displays interactive backgrounds that were made exclusively with GLSL shaders and implemented with Three.js.
 
 ## [Visit the Deployed Project Here](https://michelle-roque.vercel.app/backgrounds.html)
 
